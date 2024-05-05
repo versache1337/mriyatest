@@ -1,0 +1,18 @@
+[
+    {
+      "action": false,
+      "color": "FF0000",
+      "name": "Основной",
+      "online": 2,
+      "maxonline": 1000,
+      "lock": false
+    },
+    {
+      "action": true,
+      "color": "FFFF00",
+      "name": "Тестовый",
+      "online": 0,
+      "maxonline": 1000,
+      "lock": true
+    }
+  ]
